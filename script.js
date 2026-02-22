@@ -196,18 +196,18 @@
       ],
     },
     kaikoura: {
-      title: "Kaikōura",
+      title: "Kaikoura",
       image: "assets/places/kaikoura.jpg",
       badges: ["Wildlife", "Whales", "Dolphins & seals"],
       blocks: [
-        ["What to do", "Whale watching is the main attraction in Kaikōura."],
+        ["What to do", "Whale watching is the main attraction in Kaikoura."],
         [
           "What you may see",
           "Migrating blue whales, humpbacks, and southern right whales can be spotted.",
         ],
         [
           "Also",
-          "Swimming with dolphins and seals is also possible in Kaikōura.",
+          "Swimming with dolphins and seals is also possible in Kaikoura.",
         ],
       ],
     },
@@ -234,7 +234,7 @@
         ],
         [
           "Highlight",
-          "Dive the Mikhail Lermontov — one of the largest diveable cruise-ship wrecks in the world.",
+          "Dive the Mikhail Lermontov- one of the largest diveable cruise-ship wrecks in the world.",
         ],
       ],
     },
@@ -245,7 +245,7 @@
       blocks: [
         [
           "Where to go",
-          "New Zealand’s largest outer island — remote, quiet, and deeply natural.",
+          "New Zealand’s largest outer island - remote, quiet, and deeply natural.",
         ],
         [
           "Why unusual",
@@ -260,7 +260,7 @@
       blocks: [
         [
           "What to see",
-          "The Sky Tower is impossible to miss — at 328 m, it’s the tallest structure in the Southern Hemisphere.",
+          "The Sky Tower is impossible to miss   -at 328 m, it’s the tallest structure in the Southern Hemisphere.",
         ],
         ["Where", "Auckland, New Zealand."],
       ],
