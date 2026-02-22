@@ -340,8 +340,6 @@ a {
   }
 }
 
-/* ===== Places grid (GTK4-ish cards) ===== */
-
 .section-head {
   margin-bottom: 18px;
 }
@@ -434,13 +432,11 @@ a {
   line-height: 1.2;
 }
 
-/* Stagger reveal: "one by one" when section enters */
 .reveal-stagger.is-visible .place-card {
   opacity: 1;
   transform: translateY(0);
 }
 
-/* delay per card (10 items) */
 .reveal-stagger.is-visible .place-card:nth-child(1) {
   transition-delay: 0ms;
 }
