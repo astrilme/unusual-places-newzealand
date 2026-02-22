@@ -657,10 +657,16 @@ a {
   height: 100vh;
   margin-top: 0;
   padding-top: 96px;
-  overflow-y: auto;
+  overflow-y: hidden;
   padding-bottom: 40px;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior: contain;
+}
+
+@media (max-width: 600px) {
+  .section.is-scrollable .container {
+    overflow-y: auto;
+  }
 }
 
 .section.is-scrollable .container::-webkit-scrollbar {
@@ -993,4 +999,45 @@ body.drawer-open .snap {
     opacity: 1 !important;
     transform: none !important;
   }
+}
+
+.about {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.about h2 {
+  text-align: center;
+}
+
+.about-lead {
+  margin-top: 16px;
+  text-align: center;
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.about-card {
+  margin-top: 40px;
+  padding: 32px;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+}
+
+.about-card p {
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.6;
+}
+
+.about-card p + p {
+  margin-top: 16px;
 }
