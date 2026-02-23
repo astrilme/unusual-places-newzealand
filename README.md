@@ -18,7 +18,7 @@ basic responsive design for mobile devices
 
 This is a school project, so some small mistakes or bugs may still exist.
 
-🎯 Project Goal
+Project Goal
 
 Improve English writing skills
 
@@ -26,19 +26,19 @@ Learn how to structure information clearly
 
 Present information in a modern and creative way
 
-🛠 Development Process
+Development Process
 
 Here are some screenshots from the process of creating this website:
 
-🖥 First layout version
+First layout version
 
 ![First version](firstscreen.png)
 
-🎨 Styling and structure
+Styling and structure
 
 ![Second version](secondscreen.png)
 
-📱 Testing responsiveness
+Testing responsiveness
 
 ![Third version](thirdscreen.png)
 
