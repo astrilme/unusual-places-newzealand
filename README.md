@@ -18,14 +18,6 @@ basic responsive design for mobile devices
 
 This is a school project, so some small mistakes or bugs may still exist.
 
-Project Goal
-
-Improve English writing skills
-
-Learn how to structure information clearly
-
-Present information in a modern and creative way
-
 Development Process
 
 Here are some screenshots from the process of creating this website:
