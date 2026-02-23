@@ -37,4 +37,4 @@ Testing responsiveness
 🔗 Live Website
 
 You can view the project here:
-👉 https://astrlime.github.io/unusual-places-newzealand/
+👉 https://astrilme.github.io/unusual-places-newzealand/
